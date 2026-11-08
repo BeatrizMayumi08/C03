@@ -1,2 +1,2 @@
 # C03
-Códigos de algoritmos 2 
+Códigos referente as matérias de algoritmos 2 
